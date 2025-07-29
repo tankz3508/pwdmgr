@@ -26,4 +26,4 @@ pwdmgr -a https://google.com JohnDoe JohnDoe
 pwdmgr -l
 pwdmgr -f example.json (DEFAULTS TO: C:\Users\<USERNAME>\)
 ```
-For more information run: `lc -h`
+For more information run: `pwdmgr -h`
