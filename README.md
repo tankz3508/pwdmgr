@@ -28,5 +28,5 @@ pwdmgr -f example.json (DEFAULTS TO: C:\Users\<USERNAME>\)
 ```
 For more information run: `pwdmgr -h`
 
-##⚠️ DISCLAIMER ⚠️
+## ⚠️ DISCLAIMER ⚠️
 Windows might flag the pwdmgr.exe on execution because it reads and writes .json files. This is nothing serious. You can exculde the pwdmgr.exe in your Antivirus settings.
